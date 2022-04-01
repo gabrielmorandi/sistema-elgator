@@ -18,5 +18,5 @@ for smartphone
 ![image](https://user-images.githubusercontent.com/61758357/161073734-33919982-211e-4940-9f6b-fa080ae4ebf4.png)
 ![image](https://user-images.githubusercontent.com/61758357/161074071-e9086e91-8d9d-40a9-b04d-91d70b3b945d.png)
 
-
+end
 ☆*: .｡. o(≧▽≦)o .｡.:*☆
