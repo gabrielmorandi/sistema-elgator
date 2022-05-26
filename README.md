@@ -1,7 +1,7 @@
 # Sistema Elgator
 
 system made to test my knowledge
-access [here][site]
+access here https://gabrielmorandi.github.io/sistema-elgator
 
 for pc
 ![image](https://user-images.githubusercontent.com/61758357/161073372-c9808b44-b222-4794-ae40-6dc70d31104c.png)
@@ -20,6 +20,4 @@ for smartphone
 ![image](https://user-images.githubusercontent.com/61758357/161074071-e9086e91-8d9d-40a9-b04d-91d70b3b945d.png)
 
 the end
-☆*: .｡. o(≧▽≦)o .｡.:*☆ sdfa 
-
-[site]: https://gabrielmorandi.github.io/sistema-elgator
+☆*: .｡. o(≧▽≦)o .｡.:*☆ 
